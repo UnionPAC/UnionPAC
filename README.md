@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnionPAC
+- 👋 Hi, I’m Geoff aka @UnionPAC
 - 👀 I’m interested in startups & anything crypto/ web3 related!
 - 🌱 I’m currently building some cool Dapps with Solidity
 - 💞️ I’m open to collaborating on many types of projects or startup ideas! 
