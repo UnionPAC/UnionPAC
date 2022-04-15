@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UnionPAC
-- 👀 I’m interested in startups
-- 🌱 I’m currently learning Blockchain & Smart Contract Development w/ Solidity (EVM)
+- 👀 I’m interested in startups & anything crypto/ web3 related!
+- 🌱 I’m currently building some cool Dapps with Solidity
 - 💞️ I’m open to collaborating on many types of projects or startup ideas! 
-- 📫 You can reach me at geoff.ijamieson@gmail.com or on twitter @pac2_pac
+- 📫 You can reach me at geoff.ijamieson@gmail.com or on twitter @unionpac_
 - Can't wait to hear from you! 😁
 
 <!---
