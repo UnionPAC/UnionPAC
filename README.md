@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **TypeScript**
 
-💬 Feel free to ask me about **CSS, JavaScript, React... or anything [here](https://github.com/UnionPAC/UnionPAC/issues)**
+💬 Feel free to email me at geoffjamieson@gmail.com or ask me anything **[here](https://github.com/UnionPAC/UnionPAC/issues)**
 
 ✨ When I'm not coding I like being outdoors, hiking, backpacking, rock climbing, reading and playing Gloomhaven
 
