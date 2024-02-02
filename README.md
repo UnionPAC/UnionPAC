@@ -2,7 +2,7 @@
 
 <div align='left'>
   <img src="https://github.com/UnionPAC/UnionPAC/blob/main/jungle-lab.gif" alt="A jungle science lab, where plants thrive both on the ground and on the walls" height='400' />
-  <h1>🏂 Geoff Jamieson</h1> 
+  <img src="http://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=2000&pause=1000&color=0470F7&random=false&width=435&lines=Hey+Stranger+%F0%9F%91%8B;I'm+Geoff+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%B0;Thanks+for+stopping+by!" />
 
   <h3 >Front-end developer from Hamilton, ON 🇨🇦</h3>
 
@@ -36,6 +36,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github" /><br>
 </div>
+
+<br/>
+<hr/>
 
 </div>
 
