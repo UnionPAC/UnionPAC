@@ -3,8 +3,9 @@
 <div align='left'>
   <img src="https://github.com/UnionPAC/UnionPAC/blob/main/jungle-lab.gif" alt="A jungle science lab, where plants thrive both on the ground and on the walls" height='400' />
   <br/>
+  <br/>
   <img src="http://readme-typing-svg.herokuapp.com?font=Sriracha&size=32&duration=2000&pause=1000&color=0470F7&random=false&width=435&lines=Hey+Stranger+%F0%9F%91%8B;I'm+Geoff+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%B0;Thanks+for+stopping+by!" />
-
+  <hr/>
   <h3 >Front-end developer from Hamilton, ON 🇨🇦</h3>
 
   <p>I got into coding because I was the web designer for a company I founded called Koji Street. While working with a development team to bring the idea to life, I became interested in the coding aspect of things and began building small projects for fun on the side. After I left Koji Street, I decided to make a full time switch to pursue a career in web development.</p>
