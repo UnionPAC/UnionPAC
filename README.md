@@ -34,8 +34,8 @@
 ### 🧰 Languages & Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=vite,nodejs,express,mongodb,git,github" /><br>
 </div>
 
 <br/>
