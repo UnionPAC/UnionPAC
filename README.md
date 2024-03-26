@@ -9,39 +9,12 @@
 
   <p>I got into coding because I was the web designer for a company I founded called Koji Street. While working with a development team to bring the idea to life, I became interested in the coding aspect of things and began building small projects for fun on the side. After I left Koji Street, I decided to make a full time switch to pursue a career in web development.</p>
 
-  🔭 I’m currently building my own JavaScript framework called <a href='https://www.npmjs.com/package/kumos'>**Kumos**</a>
- 
- 🌱 I’m currently learning **TypeScript**
+🔭 Currently learning more about JavaScript frameworks by building my own called <a href='https://www.npmjs.com/package/kumos'>**Kumos**</a>
 
 💬 Feel free to email me at geoffjamieson@gmail.com or ask me anything **[here](https://github.com/UnionPAC/UnionPAC/issues)**
 
-✨ When I'm not coding I like being outdoors, hiking, backpacking, rock climbing, reading and playing Gloomhaven
+✨ When I'm not coding I like being outdoors, hiking, backpacking, rock climbing, and reading
 
-<div> 
-  <a href="mailto:geoff.ijamieson@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/geoffjamieson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.geoffjamieson.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
----
-
-### 🧰 Languages & Tools
-
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript,react,nextjs" />
-    <img src="https://skillicons.dev/icons?i=vite,nodejs,express,mongodb,git,github" /><br>
-</div>
-
-<br/>
-<hr/>
-
-</div>
 
 
 
